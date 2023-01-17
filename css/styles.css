@@ -1,0 +1,21 @@
+/******TAG SELECTORS********/
+
+hr {
+  border-style: none;
+  width: 8%;
+  border-top: 5px dotted grey;
+}
+body {
+  background-color: #c7f9db;
+  font-family: Helvetica, sans-serif;
+  font-size: 17px;
+}
+h1{
+    color: #2ec46a;
+}
+h2{
+    color: #2ec46a;
+}
+h3{
+    color: #2ec46a;
+}
